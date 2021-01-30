@@ -12,7 +12,7 @@ cd folder/to/clone-into/
 git clone https://github.com/jaderyanibarrola/football-management-system.git
 ```
 
-## Usage
+## Features
 
 ```Features
 Admin registration and login
@@ -20,6 +20,11 @@ Teams CRUD management
 Players CRUD management
 Lineups CRUD management - Mapping players to a team
 Matches CRUD management - Adding teams as Home and Vistors team, to fight each other
+```
+
+## Notes
+```
+Be sure to change .env to match your database settings
 ```
 
 ## Author
